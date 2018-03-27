@@ -1,6 +1,10 @@
 # Useful Links
 Collection of links I find useful
 
+## Batch
+* [CMD Command Cheat Sheet](https://ss64.com/nt/)
+  * [Redirect output](https://ss64.com/nt/syntax-redirection.html)
+
 ## Python
 * [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
