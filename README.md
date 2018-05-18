@@ -16,3 +16,6 @@ Collection of links I find useful
 
 ## Ruby
 * [Rubular](http://rubular.com): regular expression editor
+
+## Windows
+* [Windows 10 Privacy Guide](https://fdossena.com/?p=w10debotnet/index_1803.frag)
