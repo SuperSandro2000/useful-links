@@ -1,6 +1,9 @@
 # Useful Links
 Collection of links I find useful
 
+## Bash
+* [Parse command line arguments](https://stackoverflow.com/a/14203146/4446318)
+
 ## Batch
 * [CMD Command Cheat Sheet](https://ss64.com/nt/)
   * [Redirect output](https://ss64.com/nt/syntax-redirection.html)
