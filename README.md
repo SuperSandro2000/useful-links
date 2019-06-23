@@ -15,6 +15,9 @@ Collection of links I find useful
 ## Docker
 * [FROM:latest](https://www.fromlatest.io): Dockerfile linter
 
+## LUKS full disk encryption
+* [Unlock with Dropbear](https://hamy.io/post/0009/how-to-install-luks-encrypted-ubuntu-18.04.x-server-and-enable-remote-unlocking/=
+
 ## Python
 * [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
