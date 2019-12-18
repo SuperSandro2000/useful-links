@@ -20,6 +20,11 @@ Collection of links I find useful.
 
 * [FROM:latest](https://www.fromlatest.io): Dockerfile linter
 
+## Google data visualization
+
+* [Geo Heatmap](https://github.com/luka1199/geo-heatmap/)
+* [YouTube Report](https://github.com/A3M4/YouTube-Report)
+
 ## LUKS full disk encryption
 
 * [Unlock with Dropbear](https://hamy.io/post/0009/how-to-install-luks-encrypted-ubuntu-18.04.x-server-and-enable-remote-unlocking/=)
