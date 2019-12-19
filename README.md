@@ -1,6 +1,6 @@
 # Useful Links
 
-Collection of links I find useful.
+A collection of links that I find useful.
 
 ## Bash
 
